@@ -16,7 +16,7 @@ export const Header = () => {
                     </div>
                 </div>
                 <div className="flex flex-col items-start justify-center">
-                    <div className="mt-20 ml-20">
+                    <div className="mt-10 ml-20 mb-10">
 
                         <p className="text-white text-2xl ">Lo que debes de saber del</p>
                         <h2 className="text-white text-[220px] font-semibold"><span>Café</span></h2>
