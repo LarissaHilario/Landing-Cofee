@@ -1,13 +1,11 @@
-import Home from './Pages/Home'
+import { LandingPage } from "./Pages/LandingPage"
 
 
-function App() {
+export const App = () => {
   return (
-    <div className="App">
-      <Home/>
-    </div>
+    <>
+      <LandingPage/>
+    </>
   )
 }
 
-
-export default App
